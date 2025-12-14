@@ -1,0 +1,10 @@
+*.bak
+*.patch
+*.qcow2
+*~
+.gdb_history
+.gdbinit
+.vscode/
+bin/
+obj/
+target.cmm
